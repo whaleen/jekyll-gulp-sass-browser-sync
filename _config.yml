@@ -1,4 +1,5 @@
 name: Your New Jekyll Site
+baseurl: "jekyll-gulp-sass-tachyons-browser-sync"
 markdown: redcarpet
 highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
