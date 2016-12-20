@@ -1,4 +1,4 @@
-jekyll-gulp-sass-browser-sync
+jekyll-gulp-sass-tachyons-browser-sync
 =============================
 
 A starter project including full setup for Jekyll, GulpJS, SASS, Tachyons, AutoPrefixer &amp; BrowserSync
