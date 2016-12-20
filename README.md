@@ -1,8 +1,14 @@
 jekyll-gulp-sass-tachyons-browser-sync
 =============================
 
-A starter project including full setup for Jekyll, GulpJS, SASS, Tachyons, AutoPrefixer &amp; BrowserSync
+A starter project including full setup for Jekyll, GulpJS, SASS, Tachyons, AutoPrefixer &amp; BrowserSync.
 
+## Because
+
+- You intend to use Jekyll.
+- You will be "designing in the browser".
+- You intend to use Tachyons. http://tachyons.io/
+- You or someone in charge wants to "harness the power" of SASS.
 
 ## System Preparation
 
